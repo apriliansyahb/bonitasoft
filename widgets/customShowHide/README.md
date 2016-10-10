@@ -9,7 +9,8 @@ You can customize the look and feel of the widget (image or button)
 Compatible with Bonita 7.3.2.
 
 Screenshot<br/>
-<img src="custom_textarea.png"/>
+<img src="custom_showHide_show.png"/>
+<img src="custom_showHide_hide.png"/>
 
 ## Installation 
 1. add the widget widget-widgetTextArea.zip
