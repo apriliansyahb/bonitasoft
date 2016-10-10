@@ -13,8 +13,8 @@ Screenshot<br/>
 <img src="custom_showHide_hide.png"/>
 
 ## Installation 
-1. add the widget widget-widgetTextArea.zip
-2. add the test page page-testWidgetTextArea.zip
+1. add the widget widget-widgetShowHide.zip
+2. add the test page page-testWidgetShowHide.zip
 
 ## Configuration
 
